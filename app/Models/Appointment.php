@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Models;
-namespace App\Models\Client;
+
 
 use App\Models\Employee;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
